@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Data files
+data/
+*.csv
+*.parquet
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+thumbs.db
