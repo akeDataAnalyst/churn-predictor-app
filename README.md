@@ -27,7 +27,7 @@ A machine learning-powered web application that predicts customer churn risk in 
       - Tenure
       - Ticket history
       - Web activity
-      - Financial engagement
+      - & Financial engagement
 
 
 
