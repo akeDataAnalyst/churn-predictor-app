@@ -20,18 +20,6 @@ A machine learning-powered web application that predicts customer churn risk in 
 **Joblib** - Model serialization
 **Git + GitHub**   Version control & collaboration 
 
-## Project Structure
-churn-predictor-app/
-├── app.py # Main Streamlit application
-├── requirements.txt # Python dependencies
-├── LICENSE # MIT License
-├── README.md # This documentation file
-├── scripts/ # ML scripts and models
-│ ├── best_churn_model.pkl # Trained model
-│ └── scaler.pkl # Feature scaler
-├── data/ # datasets (not tracked in Git)
-└── .gitignore # Git exclusion rules
-
 ## Model Overview
 - Trained on synthetic customer data simulating CRM, transaction, and usage info
 - Achieved good baseline metrics and interpretable outputs
