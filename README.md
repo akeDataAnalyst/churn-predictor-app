@@ -2,6 +2,8 @@
 
 A machine learning-powered web application that predicts customer churn risk in real-time, helping businesses proactively retain valuable customers
 
+![](customer_churn_predictor.PNG)
+
 ## Live Demo
 [Try the Live App on Streamlit Cloud](https://churn-predictor-app-f3oxmdkd5dvynh8hhkkege.streamlit.app)
 
