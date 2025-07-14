@@ -14,11 +14,11 @@ A machine learning-powered web application that predicts customer churn risk in 
 
 ## Tech Stack
 **Python**- Data processing & model development
-**Scikit-learn** - ML model training & prediction
+**Scikit-learn**- ML model training & prediction
 **Streamlit**-Web app UI and deployment 
-**Pandas/Numpy** -Feature handling      
-**Joblib** - Model serialization
-**Git + GitHub**   Version control & collaboration 
+**Pandas/Numpy**-Feature handling      
+**Joblib**-Model serialization
+**Git + GitHub**- Version control & collaboration 
 
 ## Model Overview
 - Trained on synthetic customer data simulating CRM, transaction, and usage info
